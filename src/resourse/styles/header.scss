@@ -1,0 +1,27 @@
+.header {
+    background-image: url('../images/header_background.png');
+    background-color: #17181c;
+    width: 100%;
+    height:230px;
+    background-size:cover;
+    background-position:bottom;
+div {
+    padding-top:80px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    
+    nav {
+        ul {
+            list-style-type: none;
+            color:white;
+            display:flex;
+            flex-direction:row;
+            gap:70px;
+        }
+        border-bottom:1px solid white;
+    }
+}
+
+
+}
