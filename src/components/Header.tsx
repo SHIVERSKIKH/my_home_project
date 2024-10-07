@@ -3,8 +3,8 @@ import logo from '../resourse/images/logo.png'
 
 export const Header = () => {
     return (<header className="header">
-        <div>
-            <img style={{width:'62px', height:'40px'}} src={logo} alt="logo" />
+        <div className='container'>
+            <img style={{width:'52px', height:'40px'}} src={logo} alt="logo" />
             <nav>
                 <ul>
                     <li>Главная

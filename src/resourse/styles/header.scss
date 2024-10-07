@@ -18,6 +18,13 @@ div {
             display:flex;
             flex-direction:row;
             gap:70px;
+            li {
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 28px;
+                color: #ffff;
+                text-shadow: 1px 1px 2px #b8bdc9;
+            }
         }
         border-bottom:1px solid white;
     }
