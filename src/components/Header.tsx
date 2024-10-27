@@ -1,6 +1,6 @@
 import '../resourse/styles/header.scss'
 import logo from '../resourse/images/logo.png'
-
+// Первый комментарий 
 export const Header = () => {
     return (<header className="header">
         <div className='container'>
