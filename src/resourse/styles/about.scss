@@ -60,5 +60,14 @@
             box-shadow: 1px 1px 2px #6B7280; 
         }
     }
+    .about-photo {
+        img {
+            max-width: 525px;
+            width: 100%;
+            border-radius: 19px;
+            box-shadow: rgb(235 237 241) 0px -2px 8px;
+        }
+    }
 }
+
 
